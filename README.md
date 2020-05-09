@@ -4,7 +4,7 @@ This is an arduino based project which me and my friend built to prevent vehicul
 
 ## Project Diagram
 
-![images](diagrams/project-diagram.png)
+![images](diagram/project_diagram.png)
 
 ## Requirements
 
