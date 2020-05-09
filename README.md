@@ -1,6 +1,6 @@
 # Vehicular_heatstroke_prevention_system
 
-This is an arduino based project which me and my friend built to prevent vehicular heatstroke.
+This is an arduino based project which me and my friend built to prevent vehicular heatstroke for technovation contest held in our college.
 
 ## Project Diagram
 
