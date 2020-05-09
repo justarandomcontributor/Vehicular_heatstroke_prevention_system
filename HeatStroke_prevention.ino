@@ -38,6 +38,7 @@ void sound_alarm()      //activates the alarm
       x=100;
   }
 }
+
 void check() //for checking the presence of a person.
 {
    int start_time=millis();
@@ -79,8 +80,6 @@ long microsecondsToCentimeters(long microseconds)
 {
    return microseconds / 29 / 2;
 }
-
-
 
 void loop()
 {
