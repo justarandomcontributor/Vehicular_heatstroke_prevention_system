@@ -16,7 +16,7 @@
       + Ultrasonic Distance sensor
       + Buzzer for alarm
 
-	Created december 2019
+	Created December 2018
 	By Harsh Sinha & Sushil Kumar Singh
 
 	https://github.com/justarandomcontributor/Vehicular_heatstroke_prevention_system
