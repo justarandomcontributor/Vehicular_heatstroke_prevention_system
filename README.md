@@ -22,7 +22,7 @@ Simple Steps to build the project:
   2. Wire the **echo** pin of ultrasonic sound sensor to the digital pin **6**.
   3. Wire the **trigger** pin of ultrasonic sound sensor to the digital pin **4**.
   4. To install the **DHT library**, use the **Arduino Library Manager** and search for **"DHT sensor library"** and install the library.
-  5. Open the **[HeatStroke_prevention.ino](https://github.com/OddExtension5/Vehicular_heatstroke_prevention_system/blob/master/HeatStroke_prevention.ino)** file in the Arduino IDE and upload to the board using appropriate settings.
+  5. Open the **[heat-stroke_prevention.ino](https://github.com/OddExtension5/Vehicular_heatstroke_prevention_system/blob/master/HeatStroke_prevention.ino)** file in the Arduino IDE and upload to the board using appropriate settings.
 
 Have fun!
 
