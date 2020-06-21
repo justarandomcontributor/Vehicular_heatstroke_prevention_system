@@ -33,7 +33,7 @@ Have fun!
 ## Team Detail
 
 **Team Name**: DevDevil <br/>
-**Team Member**: [Harsh Sinha](https://github.com/justarandomcontributor), [Sushil Singh](https://github.com/OddExtension5) & Suvam Nandi
+**Team Member**: [Harsh Sinha](https://github.com/justarandomcontributor), [Sushil Singh](https://github.com/OddExtension5) & [Suvam Nandi](https://github.com/suvamnandi)
 
 ## Copyright & License
 Copyright (c) 2018 Vehicular Heatstroke Prevention System - Released under the GNU General Public License v3.0
